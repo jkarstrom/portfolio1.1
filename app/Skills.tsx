@@ -12,7 +12,7 @@ import Skill7 from './components/SkillCards/Skill7';
 import Skill8 from './components/SkillCards/Skill8';
 import Skill9 from './components/SkillCards/Skill9';
 import Skill10 from './components/SkillCards/Skill10';
-import Skill11 from './components/SkillCards/SKill11';
+import Skill11 from './components/SkillCards/Skill11';
 import Skill12 from './components/SkillCards/Skill12';
 
 function Skills() {

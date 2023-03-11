@@ -21,7 +21,7 @@ function Header() {
         }}
         className='flex flex-row items-center space-x-4'>
             <Link href='/' className='px-2 py-1 bg-[#f8ebe7] text text-[#f8c9b8] rounded-lg'>
-                Home
+                Joan Karstrom
             </Link>
 
             {/* Social Icons*/}

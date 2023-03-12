@@ -45,6 +45,12 @@ function Header() {
                 fgColor='#dde6d5' 
                 bgColor='transparent'
             />
+
+            <SocialIcon 
+                url="https://www.instagram.com/joankarstrom/" 
+                fgColor='#dde6d5' 
+                bgColor='transparent'
+            />
         </motion.div>
 
         <motion.div 

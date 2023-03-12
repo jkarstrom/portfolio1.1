@@ -14,8 +14,8 @@ function ExperienceCard2() {
         whileInView={{ opacity: 1, y:0 }}
         viewport={{ once: true }}
         className='w-32 h-32 rounded-full xl:w-[200px] xl:h-[200px] object-cover object-center'
-        src="/deother.png"
-        alt="A company logo for DeOther"
+        src="/chapman.png"
+        alt="A Chapman Univeristy Logo"
         />
 
         <div className='px-0 md:px-10'>

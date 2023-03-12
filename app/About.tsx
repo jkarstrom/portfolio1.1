@@ -33,10 +33,12 @@ function About() {
                 Here is a bit about ME
             </h4>
             <p className='text text-[#fceee9]'>
-            I am an almost graduate of Chapman University with a Bachelor of Science in Computer Science and Business Administration with an international emphasis. 
-            After living in South Korea for nine months, I recently returned to the States, where I interned at a startup metaverse company and studied at Yonsei University. 
+            I am a student of Chapman University with a Bachelor of Science in Computer Science and Business Administration with an international emphasis. 
+            Playing Division 3 Softball at school and being involed with Girls Who Code Club and serving as a board member of Korean American Student Assosiation,
+            I learned a lot about team management and project organization.
+            I lived in South Korea for nine months, I recently returned to the States, where I interned at a startup metaverse company and studied at Yonsei University. 
             Something that I really developed a passion for was assessability in software. 
-            During COVID, I did a lot of freelance tech work with older people setting up new devices or programs that they needed help with. 
+            During COVID, I did a lot of freelance tech work setting up new devices or programs that they needed help with. 
             Not just those older, people my age also need help understanding technology, especially in video games. 
             Growing up, I did not play video games and only really started playing in 2020 when I built my first computer. 
             I believe I have a unique perspective on the UX of video games as I notice things that others that might have played for years take for granted.

@@ -14,6 +14,9 @@ import Skill9 from './components/SkillCards/Skill9';
 import Skill10 from './components/SkillCards/Skill10';
 import Skill11 from './components/SkillCards/Skill11';
 import Skill12 from './components/SkillCards/Skill12';
+import Skill13 from './components/SkillCards/Skill13';
+import Skill14 from './components/SkillCards/Skill14';
+import Skill15 from './components/SkillCards/Skill15';
 
 function Skills() {
   return (
@@ -32,16 +35,17 @@ function Skills() {
             <Skill3 />
             <Skill4 />
             <Skill5 />
-            <Skill6 />
-            <Skill7 />
-            <Skill8 />
             <Skill9 />
+            <Skill7 />
+            <Skill15 />
+            <Skill6 />
             <Skill10 />
             <Skill11 />
             <Skill12 />
+            <Skill13 />
+            <Skill14 />
+            <Skill8 />
         </div>
-
-
     </motion.div>
   )
 }

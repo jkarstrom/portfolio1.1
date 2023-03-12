@@ -11,7 +11,8 @@ function Hero() {
         "Plays too much video games", 
         "Can almost squat a plate", 
         "Loves her computer too much",
-        "Buys too many plants"],
+        "Buys too many plants",
+        "Needs a new book to read"],
         loop: true,
         delaySpeed: 2000,
     });
@@ -34,25 +35,24 @@ function Hero() {
             </h1>
 
             <div className='pt-5'>
-                <Link href="#about">
+                <Link href="/about">
                     <button className='heroButton'>About</button>
                 </Link>
 
-                <Link href="#experience">
+                <Link href="/experience">
                     <button className='heroButton'>Experience</button>
                 </Link>
 
-                <Link href="#skills">
+                <Link href="/skills">
                     <button className='heroButton'>Skills</button>
                 </Link>
 
-                <Link href="#project">
+                <Link href="/project">
                     <button className='heroButton'>Projects</button>
                 </Link>
             
             </div>
         </div>
-        
     </div>
   )
 }

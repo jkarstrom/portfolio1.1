@@ -3,6 +3,7 @@ import React from 'react'
 import ProjectCard from './components/ProjectCards/ProjectCard'
 import { motion } from 'framer-motion';
 import ProjectCard1 from './components/ProjectCards/ProjectCard1';
+import ProjectCard2 from './components/ProjectCards/ProjectCard2';
 
 function Projects() {
   return (
@@ -19,10 +20,10 @@ function Projects() {
             {/* Projects */}
             <ProjectCard />
             <ProjectCard1 />
-            <ProjectCard />
+            <ProjectCard2 />
         </div>
 
-        <div className='w-full absolute top-[30%] bg-[#f8d3c5]/80 left-0 h-[500px] -skew-x-12'/>
+        <div className='w-full absolute top-[30%] bg-[#f8d3c5]/60 left-0 h-[500px] -skew-x-12 rotate-12'/>
     </motion.div>
   )
 }

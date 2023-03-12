@@ -14,8 +14,8 @@ function ProjectCard() {
             transition={{ duration: 1.2}}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true}}
-            src=""
-            alt="A screenshot from my portfolio"
+            src="/Portfolio.png"
+            alt="A little plant in a pot that is the favicon of my portfolio site"
         />
 
         <div className='space-y-10 px-0 md:px-10 max-w-6xl'>

@@ -8,7 +8,7 @@ function Hero() {
     const [text, count] = useTypewriter({
         words: ["Hi my name is Joan :)",
         "Likes tea more than coffee", 
-        "Plays too much video games", 
+        "Plays video games too much", 
         "Can almost squat a plate", 
         "Loves her computer too much",
         "Buys too many plants",

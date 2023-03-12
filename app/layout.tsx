@@ -28,16 +28,16 @@ export default function RootLayout({
           <section id='hero' className='snap-start'>
             <Hero />
           </section>
-          <section id='/about' className='snap-center'>
+          <section id='/about' className='snap-start'>
             <About />
           </section>
-          <section id='/experience' className='snap-center'>
+          <section id='/experience' className='snap-start'>
             <WorkExperience />
           </section>
-          <section id='/skills' className='snap-center'>
+          <section id='/skills' className='snap-start'>
             <Skills />
           </section>
-          <section id='/projects' className='snap-center'>
+          <section id='/projects' className='snap-start'>
             <Projects />
           </section>
           <section className='snap-center'>

@@ -9,7 +9,7 @@ function Header() {
         window.location.href = 'mailto:joankarstrom@gmail?subject=Portfolio Site Inquiry';
       }
   return (
-    <header className='sticky top-0 p-5 flex items-start justify-between bg-orange-300/75 z-100'>
+    <header className='sticky top-0 p-3 flex items-start justify-between bg-orange-300/75 z-100'>
         <motion.div 
         initial={{
             x: -500,
@@ -26,26 +26,22 @@ function Header() {
             <Link href='/' className='px-2 py-1 bg-[#f8ebe7] text text-[#f8c9b8] rounded-lg'>
                 Joan Karstrom
             </Link>
-
             {/* Social Icons*/}
             <SocialIcon 
                 url="https://www.linkedin.com/in/joan-karstrom/" 
                 fgColor='#dde6d5' 
                 bgColor='transparent'
             />
-
             <SocialIcon 
                 url="https://github.com/jkarstrom" 
                 fgColor='#dde6d5' 
                 bgColor='transparent'
             />
-
             <SocialIcon 
                 url="https://twitter.com/JoanKarstrom" 
                 fgColor='#dde6d5' 
                 bgColor='transparent'
             />
-
             <SocialIcon 
                 url="https://www.instagram.com/joankarstrom/" 
                 fgColor='#dde6d5' 
@@ -75,7 +71,7 @@ function Header() {
                 bgColor='transparent'
                 />
                 <p className="uppercase hidden font-bold md:inline-flex text-sm text text-[#f8c9b8]">
-                    Contact Me
+                    Contact Me :)
                 </p>
             </button>
         </motion.div>

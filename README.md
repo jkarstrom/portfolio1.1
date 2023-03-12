@@ -14,3 +14,4 @@ KNOWN ERRORS:
 - buttons on the hero section are linked but not working
 - scaling issues with section titles 
 - contact format on the bottom isnt autofilling information into email
+- scrollbar on projects is not appearing high enough on page

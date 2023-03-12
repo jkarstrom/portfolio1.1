@@ -1,4 +1,4 @@
-Joan Karstrom Portfolio
+<h1>Joan Karstrom Portfolio</h1>
 
 Hello! This is my project that I did to further develop my Front-End Development Skills to create a Nodejs program.
 
@@ -8,3 +8,9 @@ I integrated it to the cloud with Vercel and the rendered site can be found here
 portfolio1-1-jkarstrom.vercel.app
 portfolio1-1.vercel.app
 portfolio1-1-git-main-jkarstrom.vercel.app
+
+
+KNOWN ERRORS:
+- buttons on the hero section are linked but not working
+- scaling issues with section titles 
+- contact format on the bottom isnt autofilling information into email

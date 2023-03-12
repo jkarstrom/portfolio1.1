@@ -2,6 +2,7 @@
 import React from 'react'
 import ProjectCard from './components/ProjectCards/ProjectCard'
 import { motion } from 'framer-motion';
+import ProjectCard1 from './components/ProjectCards/ProjectCard1';
 
 function Projects() {
   return (
@@ -17,7 +18,7 @@ function Projects() {
         <div className='relative w-full flex overflow-x-scroll overflow-y-hidden snap-x snap-mandatory z-20 scrollbar scrollbar-thin scrollbar-track-[#fceee9]/20 scrollbar-thumb-[#fceee9]'>
             {/* Projects */}
             <ProjectCard />
-            <ProjectCard />
+            <ProjectCard1 />
             <ProjectCard />
         </div>
 

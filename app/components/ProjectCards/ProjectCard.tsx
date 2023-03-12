@@ -26,6 +26,7 @@ function ProjectCard() {
             What you are looking at right now was one of the projects I worked on! 
             I am constantly updating it, but the base build was initiated with Nextjs13. 
             I used tailwind CSS and a few libraries to implement animation and other really cool things. 
+            Little things such as changing the color of the scroll bar, making icons smaller on smaller on smaller things, or chaning the opacity when you hover on something.
             This is an excellent example of my front-end development skills, and every time I work on this, I find myself correcting or adding more items. 
             I love the end of software where users interact with the product, and having that creative control makes me more passionate about my work.
             </p>

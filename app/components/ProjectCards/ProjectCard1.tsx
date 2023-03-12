@@ -14,8 +14,9 @@ function ProjectCard1() {
             transition={{ duration: 1.2}}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
-            src="/Portfolio.png"
-            alt="A screenshot of the homepage of my portfolio"
+            src="/echo.png"
+            alt="A screenshot of the main character from my game Echo Nite"
+            className='rounded-lg'
         />
 
         <div className='space-y-10 px-0 md:px-10 max-w-6xl'>

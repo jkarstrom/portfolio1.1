@@ -15,7 +15,7 @@ function ProjectCard() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true}}
             src=""
-            alt=""
+            alt="A screenshot from my portfolio"
         />
 
         <div className='space-y-10 px-0 md:px-10 max-w-6xl'>

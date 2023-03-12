@@ -1,6 +1,7 @@
 'use client'
 import React from 'react'
 import { motion } from 'framer-motion';
+import { SocialIcon } from 'react-social-icons';
 
 function ProjectCard2() {
   return (
@@ -19,19 +20,22 @@ function ProjectCard2() {
             className='rounded-lg'
         />
 
-        <div className='space-y-10 px-0 md:px-10 max-w-6xl'>
+        <div className='space-y-10 px-0 md:px-10 max-w-6xl space-x-2 my-2'>
             <h4 className='text-4xl font-semibold text-center'>
                 3D Printing
+                <SocialIcon 
+                url="https://news.chapman.edu/2020/04/10/cu-students-and-faculty-3d-print-more-than-1000-face-shields-for-healthcare-workers/" 
+                fgColor='#dde6d5' 
+                bgColor='transparent'
+                style={{ height: 70, width: 70 }}
+                />
             </h4>
             <p className='text-lg text-center md:text-left'>
-            Echo Nite was my first REAL project done for my Visual Programming class as a final semester project. 
-            It is a 2D scroller coded with C# on Unity for a Mac build. 
-            I worked on it all by myself and did the art for it (except for the level backgrounds). 
-            I learned about animation with player models and camera movement. 
-            In this game, there are four levels; in each level, a new mechanic is introduced, for example, moving platforms or interactable blocks. 
-            It was super fun to make, and for it being my first game, I am proud of doing it by myself. 
-            Since finishing this project, I have used skills that I learned through this exercise in my internship experience.
-            Although not the PRETTIEST it was a huge accomplishment for me. 
+            During the Spring of 2020, I took a 3D printing class where we learned how to use 3D printers and model items to print. 
+            During this time, lockdown happened, and we had to take our 3D printers home to finish the semester. 
+            A big thing we were focused on in class was prosthetics and how to create cheaper alternatives that make it more accessible for people to get ahold of and afford prosthetics. 
+            When the mask shortage happened, we changed our focus to masks and how to create PPL for healthcare workers. 
+            We got a sponsorship from a small filament business, mass-produced masks and donated them to local hospitals.
             </p>
         </div>
     </div>

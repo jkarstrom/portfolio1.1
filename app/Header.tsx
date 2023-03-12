@@ -41,11 +41,10 @@ function Header() {
             />
 
             <SocialIcon 
-                url="https://www.linkedin.com/in/joan-karstrom/" 
+                url="https://twitter.com/JoanKarstrom" 
                 fgColor='#dde6d5' 
                 bgColor='transparent'
             />
-
         </motion.div>
 
         <motion.div 

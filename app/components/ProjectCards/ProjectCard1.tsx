@@ -1,6 +1,7 @@
 'use client'
 import React from 'react'
 import { motion } from 'framer-motion';
+import { SocialIcon } from 'react-social-icons';
 
 function ProjectCard1() {
   return (
@@ -22,6 +23,12 @@ function ProjectCard1() {
         <div className='space-y-10 px-0 md:px-10 max-w-6xl'>
             <h4 className='text-4xl font-semibold text-center'>
                 Echo Nite
+                <SocialIcon 
+                url="https://github.com/jkarstrom/EchoNite/tree/master" 
+                fgColor='#dde6d5' 
+                bgColor='transparent'
+                style={{ height: 65, width: 65 }}
+                />
             </h4>
             <p className='text-lg text-center md:text-left'>
             Echo Nite was my first REAL project done for my Visual Programming class as a final semester project. 

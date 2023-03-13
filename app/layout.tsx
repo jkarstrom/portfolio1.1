@@ -24,7 +24,7 @@ export default function RootLayout({
         <div className='z-25'>
           <Header />
         </div>
-        <div className='snap-y h-screen snap-mandatory z-0 overflow-y-scroll overflow-x-hidden scrollbar scrollbar-track-[#fceee9]/20 scrollbar-thumb-[#fceee9]'>
+        <div className='snap-y h-screen snap-normal z-0 overflow-y-scroll overflow-x-hidden scrollbar scrollbar-track-[#fceee9]/20 scrollbar-thumb-[#fceee9]'>
           <section id='hero' className='snap-start'>
             <Hero />
           </section>
@@ -37,7 +37,7 @@ export default function RootLayout({
           <section id='/skills' className='snap-start'>
             <Skills />
           </section>
-          <section id='/projects' className='snap-start'>
+          <section id='/projects'>
             <Projects />
           </section>
           <section className='snap-center'>

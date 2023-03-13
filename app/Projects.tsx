@@ -16,7 +16,7 @@ function Projects() {
           Projects
         </h3>
         
-        <div className='relative w-full flex overflow-x-scroll overflow-y-hidden snap-x snap-mandatory z-20 scrollbar scrollbar-thin scrollbar-track-[#fceee9]/20 scrollbar-thumb-[#fceee9]'>
+        <div className='relative w-full flex overflow-x-scroll space-x-5 overflow-y-hidden snap-x snap-mandatory z-20 scrollbar scrollbar-track-[#fceee9]/20 scrollbar-thumb-[#fceee9]'>
             {/* Projects */}
             <ProjectCard />
             <ProjectCard1 />
